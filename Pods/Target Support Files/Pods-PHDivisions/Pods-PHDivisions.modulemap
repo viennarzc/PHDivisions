@@ -1,0 +1,6 @@
+framework module Pods_PHDivisions {
+  umbrella header "Pods-PHDivisions-umbrella.h"
+
+  export *
+  module * { export * }
+}
